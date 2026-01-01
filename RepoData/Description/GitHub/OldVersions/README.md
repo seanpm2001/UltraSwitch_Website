@@ -1,0 +1,1 @@
+🎚️🌐️ The official source repository for the website of the UltraSwitch project, UltraSwitch is a service similar to Samsung Smart Switch that allows full backups of data from one device to another, for Android, iOS, Linux, MacOS, Windows, BSD, and Haiku. 
